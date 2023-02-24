@@ -78,7 +78,7 @@ const Wrap = styled.div`
   video {
     width: 100%;
     height: 100%;
-    pposition: absolute;
+    position: absolute;
     top: 0;
     opacity: 0;
     z-index: 0;
