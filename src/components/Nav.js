@@ -45,7 +45,7 @@ const Nav = () => {
           onChange={handleChange}
           className="nav__input"
           type="text"
-          placeholder="검색하고 싶은 영화에 대해 입력하세요."
+          placeholder="검색하고 싶은 영화를 입력."
         />
       )}
     </NavWrapper>
